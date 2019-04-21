@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Barrier","l":"b_wait()"},{"p":"<Unnamed>","c":"BarrierTest","l":"BarrierTest()"},{"p":"<Unnamed>","c":"BarrierTest","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"BThread","l":"run()"}]
